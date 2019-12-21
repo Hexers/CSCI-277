@@ -1,0 +1,23 @@
+Chapter 1 
+
+Page 12 - Section 1.1
+
+4) Write a detailed set of instructions in English to calculate the dollar amount of money in a piggybank that contains h half-dollars, q quarters, n nickels, d dimes, and p pennies.
+
+
+Step 1: Isolate all variables.
+
+Step 2: Assign variable values.
+
+Step 3: Calculate total amount of each piece of change.
+
+(This is just in mathematical values, not actual c++ variables, as it would not work with such variable names)
+h = x*0.50;
+q = x*0.25;
+n = x*0.05;
+d = x*0.10;
+p = x*0.01;
+
+Step 4: Calculate total amount of money.
+
+total = (h + q + n + d + p);

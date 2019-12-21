@@ -1,0 +1,21 @@
+7a)
+
+#include <iostream>
+using namespace std;
+
+int main()
+
+{
+	int num1, num2, total; // Assigns num1, num2, and total as integers
+
+	num1 = 25; // Assigns 25 to variable num1
+	num2 = 30; // Assigns 30 to variable num2
+	total = num1 + num2; // Adds num1 and num2 to produce total
+	cout << "The total of " << num1 << " and " << num2 << " is " << total << endl; // Output: The Total of 25 and 30 is 55.
+
+
+	cin.get();
+	return 0;
+}
+
+7b) The total of 25 and 30 is 55. 

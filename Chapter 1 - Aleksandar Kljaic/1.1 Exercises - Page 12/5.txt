@@ -1,0 +1,22 @@
+Chapter 1 
+
+Page 12 - Section 1.1
+
+5) Write a set of detailed, step-by-step instructions in English to find the smallest number in a group of three integer numbers.
+
+Step 1: Assign A, B, C to each of the three integer numbers.
+
+Step 2: Check all possible combinations 
+Is A less than or equal to B
+Is A less than or equal to C
+Is B less than or equal to A
+Is B less than or equal to C
+Etc...etc..etc..
+
+
+Step 3: For this we will assume A is the smallest.
+
+We check if A is less than or equal to B, if it isn't, then B is the smallest so far, then we check if B is less than or equal to C, if B is smaller than C, then B is the smallest number.
+
+
+

@@ -1,0 +1,6 @@
+5a) int firstnum, secnum;
+
+5b) double price, yield, coupon;
+
+5c) double average;
+

@@ -1,0 +1,21 @@
+Chapter 1 
+
+Page 25 - Section 1.4
+
+D) 
+
+
+#include <iostream.h>
+using namespare std;
+
+int main()
+	{
+		cout << "Every C++ program\n";
+		cout << "must have one and only one";
+		cout << "main() function\n";
+		cout << "the escape sequence of characters\n";
+		cout << "for a newline can be placed anywhere\n";
+		cout << "within the message passed to cout";
+
+		return 0;
+	}

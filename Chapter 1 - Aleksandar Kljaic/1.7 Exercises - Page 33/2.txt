@@ -1,0 +1,39 @@
+Chapter 1 
+
+Page 33 - Section 1.7
+
+distance = average speed x time
+
+d=rt
+
+2a) For this programming problem, how many outputs are required?
+
+	Three, distance, average speed, and time.
+
+2b) How many inputs does this problem have?
+
+	Two, average speed and time
+	
+2c) Write an algorithm for converting the input items into output items
+	
+	d=r*t;
+
+2d) Test the algorithm written for Exersize 2c using the following sample data: speed is 55 miles per hour and time is 2.5 hours
+
+	d=r*t;
+
+	d = 55 * ((2.5)*60);
+
+	d = 55 * 150;
+
+	d = 8250;
+
+2e) How much the algorithm you wrote in Exercise 2c be modified if the elapsed time is given in minutes instead of hours?
+
+	d = r * t;
+
+	d = 55 * ((2.5)*60); // Calculate distance equals miles per hour times (hours times minutes) to convert hours to minutes.
+
+	d = 55 * 150; // Calculate distance equals miles per hour times time.
+
+	d = 8250 / 60; // Convert minutes to hours.

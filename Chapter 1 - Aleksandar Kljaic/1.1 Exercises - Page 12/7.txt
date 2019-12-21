@@ -1,0 +1,25 @@
+Chapter 1 
+
+Page 12 - Section 1.1
+
+7a) Write an algorithm to locate the first occurrence of the name JEAN in a list of names arranged in random order.
+
+	1) Locate and compare the first name of the list with JEAN
+
+	2) Stop the search if the match to JEAN is found
+
+	3) Otherwise compare JEAN with the next name on the list.
+
+	4) Repeat Step 2 and Step 3 until the match to JEAN is found or until the end of the list.
+
+
+7b) Discuss how you would imrpove your algorithm for Exercise 7a if the list of names were arranged in alphabetical order.
+
+
+	1) Search  "J" alphabetically and then Locate and compare the first name starting at "J" with JEAN
+
+	2) Stop the search if the match to JEAN is found
+
+	3) Otherwise compare JEAN with the next name on the list "J" alphabetically
+
+	4) Repeat Step 2 and Step 3 until the match to JEAN is found on the list "J" alphabetically or until the end of the "J" list.

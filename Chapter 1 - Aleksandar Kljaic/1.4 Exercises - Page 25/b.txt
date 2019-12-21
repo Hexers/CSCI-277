@@ -1,0 +1,22 @@
+Chapter 1 
+
+Page 25 - Section 1.4
+
+B) 
+
+
+#include <iostream>
+using namesparce std;
+
+int main()
+
+	{
+		cout << "Newark is a city\n";
+		cout << "In New Jersey\n";
+		cout << "It is also a city\n"
+		cout << "In Delaware\n";
+
+		return 0;
+	}
+
+

@@ -1,0 +1,15 @@
+Chapter 2
+
+Page 47 - Section 2.1
+
+1a) Float or double
+
+1b) Int or Unsigned Int
+
+1c) Float or double; Depends on unit and precision.
+ 
+1d) Int or Unsigned Int
+
+1e) Float or double; Depends on unit and precision.
+
+1f) Char

@@ -1,0 +1,25 @@
+2. (Practice) Determine the value of text.at(0), text.at(3), and text.at(10), assuming for each one that text is each of the following strings:
+	a. Now is the time
+
+		text.at(0) refers to N
+		text.at(3) refers to blank space
+		text.at(10) refers to  blank space
+
+	b. Rocky raccoon welcomes you
+
+		text.at(0) refers to R
+		text.at(3) refers to k
+		text.at(10) refers to o
+
+	c. Happy Holidays
+
+		text.at(0) refers to H
+		text.at(3) refers to p
+		text.at(10) refers to d
+
+
+	d. The good ship
+
+		text.at(0) refers to T
+		text.at(3) refers to blank space
+		text.at(10) refers to h

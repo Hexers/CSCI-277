@@ -1,0 +1,16 @@
+Chapter 1 
+
+Page 12 - Section 1.1
+
+6a) Write detailed, step-by-step instructions in English to calculate the fewest number of dollar bills needed to pay a bill of amount TOTAL. For example, if TOTAL were $98, the bills would consist of one $50 bill, two $20 bills, one $5 bill, and three $1 bills. For this exercise, assume that only $100, $50, $20, $10, $5, and $1 bills are available.
+
+
+Step 1: Find the largest bill that is less than or equal to TOTAL and use that bill
+
+Step 2: Subtract the value of the bill from TOTAL
+
+Step 3: Repeat the previous two steps until t otal is less than $1
+
+Step 4: If TOTAL is zero, then stop.
+
+Step 5: If TOTAL is between zero and one, then use one more dollar bill.
